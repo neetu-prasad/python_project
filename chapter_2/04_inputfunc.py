@@ -11,3 +11,4 @@ print(type(a))
 a = input("enter a number")
 a = int(a) --> here we can convert a to an integer if possible
 print(type(a))'''
+89

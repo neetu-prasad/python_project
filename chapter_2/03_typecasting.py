@@ -14,7 +14,7 @@ print(a+5) # it will add +5 to a and give 3539 as o/p
 
 #a="34cdf56"
 #a=int(a) #it will definitely throw an error as we cannot change that string to integer
-#print(a+5) # here we get error as - ValueError: invalid literal for int() with base 10: '34cdf56'
+#print(a+5) # here we get error as -- ValueError: invalid literal for int() with base 10: '34cdf56'
 #  number can be converted to string an vice versa
 
 #str(32) => "31"
